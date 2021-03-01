@@ -12,6 +12,8 @@ The goal room of the dungeon map is marked with yellow tiles.
 An example of a dungeon map.
 ![Maze example](/images/maze_example.png)
 
-For both practice and performance purposes, the dungeon maps are generated offline with an editor-script and can be saved as prefabs.
+For both practice and performance purposes, the dungeon maps are generated offline with an editor-script.
 ![Offline maze generator script](/images/editor_maze_generator.png)
+
+Since the dungeon maps are generated offline, they can also be saved as prefabs.
 ![Maze prefab example](/images/maze_prefab.png)
