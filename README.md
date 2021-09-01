@@ -3,17 +3,17 @@
 
 This small game project is more for showing my capability to use an AI algorithm to generate a dungeon, moreso than actually being a game. As such the goal of this small game is simply to get from the start of the dungeon map to the end before time runs out.
 
-The starting room of the dungeon map is marked with green tiles.
+The starting room of the dungeon map is marked with green tiles.\
 ![Start](/images/maze_example_start.png)
 
-The goal room of the dungeon map is marked with yellow tiles.
+The goal room of the dungeon map is marked with yellow tiles.\
 ![Goal](/images/maze_example_goal.png)
 
-An example of a dungeon map.
+An example of a dungeon map.\
 ![Maze example](/images/maze_example.png)
 
-For both practice and performance purposes, the dungeon maps are generated offline with an editor-script.
+For both practice and performance purposes, the dungeon maps are generated offline with an editor-script.\
 ![Offline maze generator script](/images/editor_maze_generator.png)
 
-Since the dungeon maps are generated offline, they can also be saved as prefabs.
+Since the dungeon maps are generated offline, they can also be saved as prefabs.\
 ![Maze prefab example](/images/maze_prefab.png)
